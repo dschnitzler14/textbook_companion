@@ -1,0 +1,7 @@
+2-sample T-tests allow you to compare the averages between two groups.
+
+1. How big is the difference between these two groups
+(and how much uncertainty accompanies this estimate?)
+
+2. Do we have evidence whether the difference differs from zero?
+

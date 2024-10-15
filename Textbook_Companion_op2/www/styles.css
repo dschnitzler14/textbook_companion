@@ -1,0 +1,66 @@
+.success-box {
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+  color: #155724;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 10px 0;
+  border: 1px solid transparent;
+}
+
+.error-box {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  color: #721c24;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 10px 0;
+  border: 1px solid transparent;
+}
+
+.yellow-box {
+  background-color: #fff9c4; /* Light yellow background */
+  border-left: 6px solid #ffeb3b; /* Yellow border */
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif; /* Optional: change the font */
+}
+
+.yellow-box::before {
+  content: "\1F4A1 "; /* Lightbulb emoji */
+  font-size: 1.5em;
+  margin-right: 8px;
+}
+
+.purple-box {
+  background-color: #e1bee7; /* Light purple background */
+  border-left: 6px solid #9c27b0; /* Darker purple border */
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif; /* Optional: change the font */
+}
+
+.purple-box::before {
+  content: "\1F913 "; /* Nerd face emoji */
+  font-size: 1.2em;
+  vertical-align: middle;
+}
+
+.draggable-video {
+  width: 300px;
+  height: 170px;
+  z-index: 1000; /* Ensure it appears on top of other content */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: move; /* Change the cursor to indicate draggable functionality */
+}
+
+.draggable-video iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+

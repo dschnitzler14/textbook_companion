@@ -1,0 +1,18 @@
+## test header
+
+this is a sentence written in **bold** and in _italics_
+
+I also am including some code:
+
+````
+variable <- 2+3
+````
+
+Now I am referring to the `variable` as in-line code
+
+Next I want to include some math:
+
+$$variable = 2+3$$
+
+and now some text below it as well.
+

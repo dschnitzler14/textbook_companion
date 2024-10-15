@@ -1,0 +1,9 @@
+**This chapter explores how to compare the average of a group to something else for simple experimental designs.** 
+
+For instance, one of the most common questions that researchers ask is, “Do we have evidence that the average value of a trait in one group differs from the average for anther group?”.
+
+Alternatively, a researcher might wish to test whether the mean value of a group differs from a specified value (e.g., Does the mean temperature of a group of subjects in a cold room differ from 37 degrees Celsius?).  This chapter explores t-tests as a way to answer these questions.
+
+Note that the videos in this chapter discuss results of t-tests in terms of statistical significance (we will update these videos, in this respect).  In this light, we particularly draw your attention to the Practice Problems and Answers for this chapter because these materials demonstrate a more modern interpretation of t-tests by focusing on effect size. 
+
+The Practice Problems and Answers also follow the advice in the next Chapter, by abandoning the concept of statistical significance, and show how to test assumptions.
